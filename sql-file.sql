@@ -1,1 +1,2 @@
-select * from BUI
+select * 
+from BUI
