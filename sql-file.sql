@@ -1,2 +1,2 @@
 select * 
-from BUI
+from BUI order by Id desc
